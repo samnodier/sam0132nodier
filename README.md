@@ -53,6 +53,7 @@
 
 ## :closed_book: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Ask a Great Programming Question](https://dev.to/sam0132nodier/how-to-ask-a-great-programming-question-1jmj)
 <!-- BLOG-POST-LIST:END -->
 
 [linkedin]: https://www.linkedin.com/in/iduhoze-sam-nodier-87901819b/
