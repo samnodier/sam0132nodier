@@ -5,9 +5,9 @@
 <img src="./web-logo.png" align="center" />
 
 ### I'm a Developer, Designer!
-- :heart_eyes: I love teaching programming [Instagram profile][instagram]
-- Currently, I am working on developing my __proprgrmm brand__
-- I am looking forward to excel in MERN stack and Docker
+- :heart_eyes: I love teaching programming using my [Instagram][instagram]
+- Currently, I am working on developing my __proprgrmmr brand__
+- I am looking forward to excel in __MERN stack__ and __Docker__
 - I can collaborate with other developers and designers
 - I love reading and constant learning
 
