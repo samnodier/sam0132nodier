@@ -23,6 +23,7 @@
 ### Languages and Tools
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/visualstudio/visualstudio-plain.svg" align="left" alt="Visual Studio Code" width="26px" />
+<img src="https://www.flaticon.com/svg/static/icons/svg/346/346841.svg" align="left" alt="Terminal" width="26px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/git/git-original.svg" align="left" alt="Git" width="26px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/github/github-original.svg" align="left" alt="GitHub" width="26px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/nodejs/nodejs-original.svg" align="left" alt="Node.js" width="26px" >
@@ -47,6 +48,12 @@
 
 <br />
 <br />
+
+---
+
+ :closed_book: Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [linkedin]: https://www.linkedin.com/in/iduhoze-sam-nodier-87901819b/
 [instagram]: https://www.instagram.com/sam0132nodier
