@@ -1,5 +1,7 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/sam0132nodier?color=1DA1F2&label=Follow&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsam0132nodier&screen_name=sam0132nodier)
+
 ## Hi there, I'm Sam Nodier - aka <img src="./profile_800-800.png" alt="proprgrmmr" width="30px" /> :100:
 
 <br />
