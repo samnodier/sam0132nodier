@@ -1,6 +1,8 @@
-## Hi there, I'm Sam Nodier - aka [<img src="./profile_800-800.png" alt="proprgrmmr" width="30px" />] :100:
+## Hi there, I'm Sam Nodier - aka <img src="./profile_800-800.png" alt="proprgrmmr" width="30px" /> :100:
 
-<img src="./web-logo.png" style="background: black;" />
+<br />
+
+<img src="./web-logo.png" align="center" />
 
 ### I'm a Developer, Designer!
 - :heart_eyes: I love teaching programming [Instagram profile][instagram]
@@ -31,7 +33,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/sass/sass-original.svg" align="left" alt="Sass" width="26px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/javascript/javascript-original.svg" align="left" alt="JavaScript" width="26px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/jquery/jquery-original.svg" align="left" alt="jQuery" width="26px" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/react/react-original.svg]" align="left" alt="React" width="26px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/react/react-original.svg" align="left" alt="React" width="26px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/express/express-original.svg" align="left" alt="Express" width="26px" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/python/python-original.svg" align="left" alt="Python" width="26px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/django/django-original.svg" align="left" alt="Django" width="26px" />
