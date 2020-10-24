@@ -60,7 +60,7 @@
 
 ---
 
-![proprgrmmr's GitGub Stats](https://github-readme-stats.vercel.app/api?username=sam0132nodier&show_icons=true&hide_border=true&bg_color=0,1e1e1e565656,1e1e1e&title_color=fff&text_color=c0c0c0&icon_color=34a853)
+![proprgrmmr's GitGub Stats](https://github-readme-stats.vercel.app/api?username=sam0132nodier&show_icons=true&hide_border=true&bg_color=0,1e1e1e,565656,1e1e1e&title_color=fff&text_color=c0c0c0&icon_color=34a853)
 
 [linkedin]: https://www.linkedin.com/in/iduhoze-sam-nodier-87901819b/
 [instagram]: https://www.instagram.com/sam0132nodier
