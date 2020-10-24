@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" media="all" href="./style.css" />
+
 ## Hi there, I'm Sam Nodier - aka <img src="./profile_800-800.png" alt="proprgrmmr" width="30px" /> :100:
 
 <br />
@@ -54,6 +56,10 @@
 ## :closed_book: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+![proprgrmmr's GitGub Stats](https://github-readme-stats.vercel.app/api?username=sam0132nodier&show_icons=true&hide_border=true&bg_color=rgb(30,30,30),rgb(86,86,86),rgb(30,30,30)&title_color=rgb(255,255,255)&text_color=rgb(193, 193, 193)&icon_color=#34A853)
 
 [linkedin]: https://www.linkedin.com/in/iduhoze-sam-nodier-87901819b/
 [instagram]: https://www.instagram.com/sam0132nodier
