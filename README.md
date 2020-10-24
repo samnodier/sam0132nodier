@@ -51,7 +51,7 @@
 
 ---
 
- :closed_book: Latest Blog Posts
+## :closed_book: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
