@@ -7,7 +7,7 @@
 <img src="./web-logo.png" align="center" />
 
 ### I'm a Developer, Designer!
-- :heart_eyes: I love teaching programming using my [Instagram][instagram]
+- :heart_eyes: I teach programming using [Instagram](https://www.instagram.com/proprgrmmr)
 - Currently, I am working on developing my __proprgrmmr brand__
 - I am looking forward to excel in __MERN stack__ and __Docker__
 - I can collaborate with other developers and designers
