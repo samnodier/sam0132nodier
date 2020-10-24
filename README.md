@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
-## Hi there, I'm Sam Nodier - aka <img src="./profile_800-800.png" alt="proprgrmmr" width="30px" /> :100:
+## Hi there, I'm Sam Nodier - aka <img src="./profile_800-800.png" alt="proprgrmmr" /> :100:
 
 <br />
 
@@ -60,7 +60,7 @@
 
 ---
 
-![proprgrmmr's GitGub Stats](https://github-readme-stats.vercel.app/api?username=sam0132nodier&show_icons=true&hide_border=true&bg_color=rgb(30,30,30),rgb(86,86,86),rgb(30,30,30)&title_color=rgb(255,255,255)&text_color=rgb(193, 193, 193)&icon_color=#34A853)
+![proprgrmmr's GitGub Stats](https://github-readme-stats.vercel.app/api?username=sam0132nodier&show_icons=true&hide_border=true&bg_color=0,1e1e1e565656,1e1e1e&title_color=fff&text_color=c0c0c0&icon_color=34a853)
 
 [linkedin]: https://www.linkedin.com/in/iduhoze-sam-nodier-87901819b/
 [instagram]: https://www.instagram.com/sam0132nodier
