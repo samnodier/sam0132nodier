@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/sam0132nodier?color=1DA1F2&label=Follow&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsam0132nodier&screen_name=sam0132nodier)
+[![Twitter Follow](https://img.shields.io/twitter/follow/samnodier?color=1DA1F2&label=Follow&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsamnodier&screen_name=sam0132nodier)
 
 ## Hi there, I'm Sam Nodier - aka [proprgrmmr] :100:
 
@@ -68,6 +68,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam0132nodier&show_icons=true&hide_border=true&bg_color=0,1e1e1e,565656,1e1e1e&title_color=fff&text_color=c0c0c0&icon_color=34a853" alt="My Top Langs" align="left">
 
 [linkedin]: https://www.linkedin.com/in/iduhoze-sam-nodier-87901819b/
-[instagram]: https://www.instagram.com/sam0132nodier
-[twitter]: https://www.twitter.com/sam0132nodier
-[facebook]: https://web.facebook.com/iduhoze.samnodier/
+[instagram]: https://www.instagram.com/samnodier
+[twitter]: https://www.twitter.com/samnodier
+[facebook]: https://web.facebook.com/samnodier/
